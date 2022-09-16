@@ -1,0 +1,3 @@
+= zim-gopass
+
+https://github.com/zimfw/zimfw[zim module] for https://github.com/gopasspw/gopass[gopass].
