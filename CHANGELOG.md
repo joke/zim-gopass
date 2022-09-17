@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/joke/zim-gopass/compare/v1.0.1...v1.1.0) (2022-09-17)
+
+
+### Features
+
+* check dumpfile after completion update ([89e3de9](https://github.com/joke/zim-gopass/commit/89e3de9b4d4ada13531530fc156226b8a234d43f))
+
 ### [1.0.1](https://github.com/joke/zim-gopass/compare/v1.0.0...v1.0.1) (2022-09-16)
 
 
