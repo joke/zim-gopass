@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.1](https://github.com/joke/zim-gopass/compare/v1.1.0...v1.1.1) (2022-09-18)
+
+
+### Bug Fixes
+
+* script error ([b356c17](https://github.com/joke/zim-gopass/commit/b356c17542f16e4c2740cdb3288adbb3677f863d))
+
 ## [1.1.0](https://github.com/joke/zim-gopass/compare/v1.0.1...v1.1.0) (2022-09-17)
 
 
