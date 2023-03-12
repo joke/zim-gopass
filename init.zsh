@@ -6,6 +6,6 @@
   local compfile=$1/functions/_gopass
   if [[ ! -e $compfile || $compfile -ot $command ]]; then
     $command completion zsh >| $compfile
-    zimfw check-dumpfile
+    print -u2 -PR "* Detected a new version 'gopass'. Regenerated completions.
   fi
 } ${0:h}
