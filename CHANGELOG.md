@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/joke/zim-gopass/compare/v1.1.1...v1.1.2) (2023-03-12)
+
+
+### Bug Fixes
+
+* new version detection message ([d415b5f](https://github.com/joke/zim-gopass/commit/d415b5f7c9171d3383d0af8100189b4d03a71917))
+
 ### [1.1.1](https://github.com/joke/zim-gopass/compare/v1.1.0...v1.1.1) (2022-09-18)
 
 
